@@ -1,0 +1,4 @@
+Bundle-Name: upload-to-document-library
+Bundle-SymbolicName: com.as.poc.documentlibrary.upload
+Bundle-Version: 1.0.0
+Export-Package: com.as.poc.documentlibrary.upload.constants
